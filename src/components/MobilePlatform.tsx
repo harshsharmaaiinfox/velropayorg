@@ -1,6 +1,6 @@
 import { Card } from "@/components/ui/card";
 import lineBodyBg from "@/assets/line_body_.png";
-import mobileApp from "@/assets/mobile-3.png"; // You'll need to add this image to your assets
+import mobileApp from "@/assets/mobile-section.png"; // You'll need to add this image to your assets
 
 const MobilePlatform = () => {
   return (

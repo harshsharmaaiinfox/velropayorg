@@ -35,7 +35,7 @@ const Features = () => {
       }}
     >
       <div className="container mx-auto px-4">
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="flex md:grid-cols-3 gap-8">
           {features.map((feature, index) => (
             <Card key={index} className="p-8 hover:shadow-xl transition-shadow bg-white shadow-lg">
               <div className="mb-6 w-16 h-16 flex items-center justify-center rounded-lg bg-[#2CAE6C]/10">

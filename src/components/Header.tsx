@@ -42,7 +42,7 @@ const Header = () => {
       }`}
     >
       <div className="container mx-auto px-4">
-        <div className="flex items-center h-16 pt-5 pb-5">
+        <div className="flex items-center h-16 pt-8 pb-5">
           <div className="flex items-center gap-2">
             <Link to="/" className="block">
               <div className="w-125 h-12 transition-opacity duration-300 ease-in-out">
